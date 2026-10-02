@@ -1,0 +1,8 @@
+@theme inline {
+  --color-background: #101116;
+  --color-foreground: #f3f3f7;
+  --color-border: #292a34;
+  --color-primary: #aaa0ff;
+  --font-sans: 'DM Sans', sans-serif;
+}
+:root { color-scheme: dark; }

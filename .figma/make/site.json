@@ -1,0 +1,10 @@
+{
+  "description": "Streamline academic management for university students and lecturers with a modern platform for tracking courses, grades, assignments, and communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

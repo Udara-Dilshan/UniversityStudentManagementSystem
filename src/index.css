@@ -1,0 +1,11 @@
+@import './styles/fonts.css';
+@import 'tailwindcss';
+@import './styles/theme.css';
+
+@layer base {
+  body { @apply bg-background text-foreground font-sans antialiased; }
+  button, a, input, select { @apply outline-none; }
+  button, a { @apply focus-visible:ring-2 focus-visible:ring-violet-400; }
+  button { @apply cursor-pointer; }
+  ::selection { background: #7264ad; color: white; }
+}
